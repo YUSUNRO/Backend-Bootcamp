@@ -34,4 +34,5 @@ https://choco-holic.tistory.com/
 23.01.18 - [자료구조/알고리즘]자료구조 - Tree traversal, BFS/DFS  
 23.01.19 - [자료구조/알고리즘]코딩 테스트 준비 - Algorithm, pseudocode(의사코드), Time Complexity(시간복잡도), Greedy(탐욕 알고리즘)  
 23.01.20 - [자료구조/알고리즘]코딩 테스트 준비 - Greedy Algorithm, implementation  
-23.01.25 - [자료구조/알고리즘]코딩 테스트 준비 - Algorithm With Math
+23.01.25 - [자료구조/알고리즘]코딩 테스트 준비 - Algorithm With Math  
+23.01.26 - [네트워크]웹 애플리케이션 작동원리 - 네트워크를 만드는 기술 : TCP/IP, PORT, URL, DNS, 웹을 구성하는 기술 : WEB, client-server Architectures, SSR/CSR, HTTP  
