@@ -37,4 +37,4 @@ https://choco-holic.tistory.com/
 23.01.25 - [자료구조/알고리즘]코딩 테스트 준비 - Algorithm With Math  
 23.01.26 - [네트워크]웹 애플리케이션 작동원리 - TCP/IP, PORT, URL, DNS, WEB, Client-Server Architectures, SSR/CSR, HTTP  
 23.01.27 - [네트워크]HTTP - REST API, Open API, API Key Postman  
-23.01.30 - [데이터베이스]SQL,스키마설계,RDBMS - SQL
+23.01.30 - [데이터베이스]SQL,스키마설계,RDBMS - SQL  
