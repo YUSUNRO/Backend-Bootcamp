@@ -39,3 +39,4 @@ https://choco-holic.tistory.com/
 23.01.27 - [네트워크]HTTP - REST API, Open API, API Key Postman  
 23.01.30 - [데이터베이스]SQL,스키마설계,RDBMS - SQL  
 23.01.31 - [데이터베이스]SQL,스키마설계,RDBMS - 설계, 스키마 디자인  
+23.02.01 - [데이터베이스]SQL,스키마설계,RDBMS - learnSQL  
