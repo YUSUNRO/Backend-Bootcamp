@@ -5,6 +5,7 @@ https://choco-holic.tistory.com/
 
 
 # 부트캠프 커리큘럼 과정 기록
+
 ### Section 1
 22.12.15 - 메타인지  
 22.12.16 - [웹개발] 기초컴퓨터와 프로그래밍의 이해, 웹, HTML, CSS  
@@ -26,6 +27,7 @@ https://choco-holic.tistory.com/
 23.01.09 - [Java]심화 - Stream, 파일 입출력  
 23.01.10 - [Java]심화 - Thread(스레드), JVM(자바 가상 머신)  
 23.01.11 - [Java] 메타학습 & 회고 - 기술면접 준비, 회고 블로깅  
+
 ### Section 2
 23.01.12 - [자료구조/알고리즘]기초 - 재귀  
 23.01.13 - [자료구조/알고리즘]기초 - 재귀, StringifyJSON 실습  
@@ -45,3 +47,6 @@ https://choco-holic.tistory.com/
 23.02.06 - [Spring Core]Spring Framework 핵심개념 - DI(Dependency Injection)란?, 스프링 컨테이너, 빈(Bean)  
 23.02.07 - [Spring Core]Spring Framework 핵심개념 - Java 기반 컨테이너(Container) 설정, Component Scan, 다양한 의존관계 주입 방법  
 23.02.08 - [Spring Core]Spring Framework 핵심개념 - AOP(Aspect-Oriented Programming)가 필요한 이유, AOP용어, 타입별 Advice  
+23.02.09 - [Spring Core]Spring Framework 핵심개념 - AOP(Aspect-Oriented Programming), 타입별 Advice, Pointcut 표현식, JoinPoint, 애너테이션(Annotation)을 이용한 AOP  
+
+#Section 3
