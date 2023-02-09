@@ -48,5 +48,6 @@ https://choco-holic.tistory.com/
 23.02.07 - [Spring Core]Spring Framework 핵심개념 - Java 기반 컨테이너(Container) 설정, Component Scan, 다양한 의존관계 주입 방법  
 23.02.08 - [Spring Core]Spring Framework 핵심개념 - AOP(Aspect-Oriented Programming)가 필요한 이유, AOP용어, 타입별 Advice  
 23.02.09 - [Spring Core]Spring Framework 핵심개념 - AOP(Aspect-Oriented Programming), 타입별 Advice, Pointcut 표현식, JoinPoint, 애너테이션(Annotation)을 이용한 AOP  
+23.02.10 - 메타학습 - 기술면접 준비, 회고 블로깅  
 
 ### Section 3
