@@ -51,4 +51,4 @@ https://choco-holic.tistory.com/
 23.02.10 - 메타학습 - 기술면접 준비, 회고 블로깅  
 
 ### Section 3
-23.02.13 -  
+23.02.13 -  [Spring MVC]API 계층 - Spring MVC, Controller, HTTP 헤더(Header), Rest Client  
