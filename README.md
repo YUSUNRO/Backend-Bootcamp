@@ -55,3 +55,4 @@ https://choco-holic.tistory.com/
 23.02.14 - [Spring MVC]API 계층 - HTTP 요청/응답에서의 DTO(Data Transfer Object), DTO 유효성 검증(Validation), DTO 적용 실습  
 23.02.15 - [Spring MVC]서비스 계층 - DI를 통한 서비스 계층↔API 계층 연동, 매퍼(Mapper)를 이용한 DTO 클래스↔엔티티(Entity) 클래스 매핑  
 23.02.16 - [Spring MVC]예외 처리 - @ExceptionHandler를 이용한 예외 처리, @RestControllerAdvice를 이용한 예외처리  
+23.02.17 - [Spring MVC]예외 처리 - 비즈니스적인 예외 던지기(throw) 및 예외 처리, 애플리케이션 예외 처리 실습  
