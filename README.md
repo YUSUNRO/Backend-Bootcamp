@@ -58,3 +58,4 @@ https://choco-holic.tistory.com/
 23.02.17 - [Spring MVC]예외 처리 - 비즈니스적인 예외 던지기(throw) 및 예외 처리, 애플리케이션 예외 처리 실습  
 23.02.20 - [Spring MVC]JDBC 기반 데이터 액세스 계층 - Spring Data JDBC란?  
 23.02.21 - [Spring MVC]JDBC 기반 데이터 액세스 계층 - Spring Data JDBC 기반의 도메인 엔티티 및 테이블 설계  
+23.02.22 - [Spring MVC]JDBC 기반 데이터 액세스 계층 - Spring Data JDBC를 이용한 데이터 액세스 실습  
