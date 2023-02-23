@@ -59,3 +59,5 @@ https://choco-holic.tistory.com/
 23.02.20 - [Spring MVC]JDBC 기반 데이터 액세스 계층 - Spring Data JDBC란?  
 23.02.21 - [Spring MVC]JDBC 기반 데이터 액세스 계층 - Spring Data JDBC 기반의 도메인 엔티티 및 테이블 설계  
 23.02.22 - [Spring MVC]JDBC 기반 데이터 액세스 계층 - Spring Data JDBC를 이용한 데이터 액세스 실습  
+23.02.23 - [Spring MVC]JPA 기반 데이터 액세스 계층 - JPA(Java Persistence API) 개요, PA 엔티티(Entity) 매핑  
+23.02.24 - [Spring MVC]JPA 기반 데이터 액세스 계층 - JPA 엔티티 간의 연관 관계 매핑, 연관 관계 매핑 실습  
