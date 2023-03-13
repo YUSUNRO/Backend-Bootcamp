@@ -2,6 +2,7 @@
 
 # 블로깅
 https://choco-holic.tistory.com/
+https://cliff-danthus-133.notion.site/Back-end-e8bb793d00324c28825a8cec505e6997
 
 
 # 부트캠프 커리큘럼 과정 기록
