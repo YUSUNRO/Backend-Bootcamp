@@ -48,7 +48,7 @@ https://choco-holic.tistory.com/
 23.02.07 - [Spring Core]Spring Framework 핵심개념 - DI(Dependency Injection)  
 23.02.08 - [Spring Core]Spring Framework 핵심개념 - AOP(Aspect-Oriented Programming)  
 23.02.09 - [Spring Core]Spring Framework 핵심개념 - AOP(Aspect-Oriented Programming)  
-23.02.10 - 메타학습 - 기술면접 준비, 회고 블로깅  
+23.02.10 - 메타학습 - 기술면접 준비 
 
 ### Section 3
 23.02.13 - [Spring MVC]API 계층 - Spring MVC, Controller, HTTP 헤더(Header), Rest Client, Controller 구현 실습  
@@ -68,3 +68,6 @@ https://choco-holic.tistory.com/
 23.03.06 - [Spring MVC] 테스팅 - Hamcrest, 슬라이스 테스트  
 23.03.07 - [Spring MVC] 테스팅 - Mockito, Tdd  
 23.03.08 - [Spring MVC] API 문서화(Documentation) - Spring Restdocs  
+23.03.09 - [Spring MVC] API 문서화(Documentation) - Asciidoc, API 문서화 실습  
+23.03.10 - [Spring MVC] 애플리케이션 빌드/실행/배포 - 애플리케이션 빌드/실행/배포  
+23.03.13 - 메타학습 - 기술면접 준비  
