@@ -72,3 +72,9 @@ https://cliff-danthus-133.notion.site/Back-end-e8bb793d00324c28825a8cec505e6997
 23.03.09 - [Spring MVC] API 문서화(Documentation) - Asciidoc, API 문서화 실습  
 23.03.10 - [Spring MVC] 애플리케이션 빌드/실행/배포 - 애플리케이션 빌드/실행/배포  
 23.03.13 - 메타학습 - 기술면접 준비  
+
+### Section 4
+23.03.14 - [인증보안] - HTTPS, Hashing, Cookie, Session, 웹 보안 공격  
+23.03.15 - [Spring Security] 기본 - Spring Security 기본 구조, Spring Sercurity의 웹 요청 처리 흐름  
+23.03.16 - [Spring Security] 기본 - Spring Security의 인증 처리 흐름, Spring Security의 인증 컴포넌트  
+23.03.17 - [Spring Security] 기본 - Spring Security의 권한 부여 처리 흐름, 접근 제어 표현식  
