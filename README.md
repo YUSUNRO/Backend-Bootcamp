@@ -79,5 +79,5 @@ https://cliff-danthus-133.notion.site/Back-end-e8bb793d00324c28825a8cec505e6997
 23.03.16 - [Spring Security] 기본 - Spring Security의 인증 처리 흐름, Spring Security의 인증 컴포넌트  
 23.03.17 - [Spring Security] 기본 - Spring Security의 권한 부여 처리 흐름, 접근 제어 표현식  
 23.03.20 - [Spring Security] JWT 인증(Authentication) - JWT(JSON Web Token)란?, JWT의 장점과 단점, JWT 생성 및 검증 테스트  
-23.03.21 - [Spring Security] JWT 인증(Authentication) - Spring Security에서의 JWT 인증, JWT 자격 증명을 위한 로그인 인증 구현  
+23.03.21 - [Spring Security] JWT 인증(Authentication) - Spring Security에서의 JWT 인증, JWT 자격 증명을 위한 로그인 인증 구현, JWT를 이용한 자격 증명 및 검증 구현  
 23.03.22 - 
