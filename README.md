@@ -89,3 +89,4 @@ https://cliff-danthus-133.notion.site/Back-end-e8bb793d00324c28825a8cec505e6997
 23.03.30 - [Cloud] 운영 환경 구성 - 클라이언트 배포, 데이터베이스 연결  
 23.03.31 - [Cloud] 배포 컨테이너 - Docker란?, Docker CLI, Docker 이미지 다루기  
 23.04.03 - [Cloud] 배포 자동화 - Automated Deployment, AWS Pipeline을 통한 배포 자동화, 환경 변수 설정  
+23.04.04 - [Cloud] 배포 자동화 - Github Actions를 통한 배포 자동화  
