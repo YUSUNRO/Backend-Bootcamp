@@ -91,3 +91,4 @@ https://cliff-danthus-133.notion.site/Back-end-e8bb793d00324c28825a8cec505e6997
 23.04.03 - [Cloud] 배포 자동화 - Automated Deployment, AWS Pipeline을 통한 배포 자동화, 환경 변수 설정  
 23.04.04 - [Cloud] 배포 자동화 - Github Actions를 통한 배포 자동화  
 23.04.05 - [Cloud] 운영 전략 - Proxy Server, 로드밸런서, 오토스케일링, TOMCAT, Jetty, NginX, VPC  
+23.04.06 - 솔로 프로젝트 - To do App  
