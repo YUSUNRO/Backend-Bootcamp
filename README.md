@@ -92,3 +92,7 @@ https://cliff-danthus-133.notion.site/Back-end-e8bb793d00324c28825a8cec505e6997
 23.04.04 - [Cloud] 배포 자동화 - Github Actions를 통한 배포 자동화  
 23.04.05 - [Cloud] 운영 전략 - Proxy Server, 로드밸런서, 오토스케일링, TOMCAT, Jetty, NginX, VPC  
 23.04.06 - 솔로 프로젝트 - To do App  
+23.04.07 - 솔로 프로젝트 - To do App  
+23.04.10 - 메타학습 - 기술면접 준비  
+23.04.11 - [Pre-Project] - 팀 빌딩  
+23.04.12 - [Pre-Project] - Github, Git flow  
