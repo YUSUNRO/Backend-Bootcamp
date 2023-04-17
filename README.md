@@ -98,3 +98,4 @@ https://cliff-danthus-133.notion.site/Back-end-e8bb793d00324c28825a8cec505e6997
 23.04.12 - [Pre-Project] - Github, Git flow  
 23.04.13 - [Pre-Project] - Project 과정 정리  
 23.04.14 - [Pre-Project] - 사용자요구사항정의서, 테이블 명세서 작성  
+23.04.17 - [Pre-Project] - Pre-Project  
