@@ -105,3 +105,9 @@ https://cliff-danthus-133.notion.site/Back-end-e8bb793d00324c28825a8cec505e6997
 23.04.21 - [Pre-Project] - Pre-Project  
 23.04.24 - [Pre-Project] - Pre-Project  
 23.04.25 - [Pre-Project] - Pre-Project  
+23.04.26 - [Pre-Project] - Pre-Project  
+23.04.27 - [Pre-Project] - Pre-Project  
+23.04.28 - [Main-Project] - 팀 빌딩  
+23.05.01 - [Main-Project] - Main-Project  
+23.05.02 - [Main-Project] - Main-Project  
+23.05.03 - [Main-Project] - Main-Project  
